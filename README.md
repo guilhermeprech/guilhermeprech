@@ -1,16 +1,62 @@
-## Hi there 👋
+# Guilherme Pasquali Rech
 
-<!--
-**guilhermeprech/guilhermeprech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building modern web applications and solving real-world problems with technology.
 
-Here are some ideas to get you started:
+Currently studying Systems Analysis and Development and building projects using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Node.js
+- SQL
+- Git & GitHub
+- Tailwind CSS
+
+---
+
+## Projects
+
+### Guilhas Carnes E-commerce
+E-commerce platform for a premium butcher shop.
+
+Features:
+- Product catalog
+- Shopping cart
+- Checkout via WhatsApp
+- Responsive design
+
+Live: https://guilhascarnes.com.br
+
+---
+
+### Monterra Queijos Website
+Institutional website for an artisanal cheese brand.
+
+Features:
+- Product presentation
+- Brand storytelling
+- Responsive layout
+
+---
+
+
+## Currently Learning
+
+- Backend development
+- API development
+- System architecture
+
+---
+
+## Contact
+
+LinkedIn  
+www.linkedin.com/in/guilherme-pasquali-rech
+
+GitHub  
+github.com/guilhermeprech
