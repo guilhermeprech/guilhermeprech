@@ -8,14 +8,12 @@ Currently studying Systems Analysis and Development and building projects using 
 
 ## Tech Stack
 
-- JavaScript
 - TypeScript
 - React
 - Next.js
 - Node.js
 - SQL
 - Git & GitHub
-- Tailwind CSS
 
 ---
 
@@ -31,25 +29,6 @@ Features:
 - Responsive design
 
 Live: https://guilhascarnes.com.br
-
----
-
-### Monterra Queijos Website
-Institutional website for an artisanal cheese brand.
-
-Features:
-- Product presentation
-- Brand storytelling
-- Responsive layout
-
----
-
-
-## Currently Learning
-
-- Backend development
-- API development
-- System architecture
 
 ---
 
