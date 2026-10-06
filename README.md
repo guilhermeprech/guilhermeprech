@@ -1,41 +1,88 @@
-# Guilherme Pasquali Rech
+# Hi, I'm Guilherme 👋
 
-Software Developer focused on building modern web applications and solving real-world problems with technology.
+### Frontend / Web Developer | React • Next.js
 
-Currently studying Systems Analysis and Development and building projects using modern web technologies.
+I build modern web applications and digital products for real businesses, with a focus on responsive interfaces, clean user experiences and maintainable code.
 
----
-
-## Tech Stack
-
-- TypeScript
-- React
-- Next.js
-- Node.js
-- SQL
-- Git & GitHub
+My work ranges from customer-facing websites and e-commerce experiences to dashboards and business platforms.
 
 ---
 
-## Projects
+## Core Stack
 
-### Guilhas Carnes E-commerce
-E-commerce platform for a premium butcher shop.
+** React • Next.js • TypeScript • Tailwind CSS **
 
-Features:
-- Product catalog
+---
+
+## Featured Projects
+
+### 👜 Mile West
+
+International e-commerce platform developed for a fashion brand operating in Brazil and the United States.
+
+**Highlights**
+- Responsive e-commerce experience
+- Product catalog and product pages
+- Shopping cart and wishlist
+- Customer authentication
+- Checkout flow
+- Administrative product management
+
+**Built with:** React • Next.js • TypeScript • Tailwind CSS
+
+🌐 **Live:** https://www.shopmilewest.com
+
+---
+
+### ⚖️ Núcleo AJ
+
+Web platform developed for an Administration Judicial business, combining a public-facing website with a private management environment.
+
+**Highlights**
+- Responsive web interface
+- Administrative dashboard
+- Process and document management
+- Authentication and protected areas
+- Dynamic content management
+
+**Built with:** React • Next.js • TypeScript • Tailwind CSS
+
+🌐 **Live:** https://ajncl.net.br
+
+
+---
+
+### 🥩 Guilhas Carnes
+
+E-commerce website developed for a premium butcher shop.
+
+**Highlights**
+- Responsive product catalog
 - Shopping cart
-- Checkout via WhatsApp
-- Responsive design
+- WhatsApp checkout
+- Mobile-friendly experience
 
-Live: https://guilhascarnes.com.br
+🌐 **Live:** https://guilhascarnes.com.br
 
 ---
 
-## Contact
+## What I Do
 
-LinkedIn  
-www.linkedin.com/in/guilherme-pasquali-rech
+I focus on turning real business requirements into web applications that are intuitive, responsive and ready for production.
 
-GitHub  
-github.com/guilhermeprech
+Beyond the interface, I have experience working across complete web projects, including authentication, data integration, application logic, deployment and production maintenance.
+
+---
+
+## Currently
+
+I'm currently focused on improving my skills as a web developer while building and maintaining real-world applications.
+
+I'm open to opportunities as a **Frontend Developer, Web Developer or React Developer**, especially with international and distributed teams.
+
+---
+
+## Let's Connect
+
+🌐 **Portfolio:** https://guilhermerech.com.br
+💼 **LinkedIn:** https://www.linkedin.com/in/guilherme-pasquali-rech-446a92355
